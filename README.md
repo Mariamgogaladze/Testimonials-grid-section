@@ -5,7 +5,7 @@ This is Testimonials grid section, built using HTML and CSS. The page includes r
 # Installation
 To use this project, simply clone or download the repository and open the index.html file in your web browser.
 
-# bash
+
 # Copy code
 git clone https://github.com/Mariamgogaladze/Testimonials-grid-section
 
